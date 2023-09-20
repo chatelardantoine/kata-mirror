@@ -1,0 +1,15 @@
+D:\Me\MirrorKata\MirrorKata.App\bin\Debug\net7.0\MirrorKata.App.exe
+D:\Me\MirrorKata\MirrorKata.App\bin\Debug\net7.0\MirrorKata.App.deps.json
+D:\Me\MirrorKata\MirrorKata.App\bin\Debug\net7.0\MirrorKata.App.runtimeconfig.json
+D:\Me\MirrorKata\MirrorKata.App\bin\Debug\net7.0\MirrorKata.App.dll
+D:\Me\MirrorKata\MirrorKata.App\bin\Debug\net7.0\MirrorKata.App.pdb
+D:\Me\MirrorKata\MirrorKata.App\obj\Debug\net7.0\MirrorKata.App.csproj.AssemblyReference.cache
+D:\Me\MirrorKata\MirrorKata.App\obj\Debug\net7.0\MirrorKata.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Me\MirrorKata\MirrorKata.App\obj\Debug\net7.0\MirrorKata.App.AssemblyInfoInputs.cache
+D:\Me\MirrorKata\MirrorKata.App\obj\Debug\net7.0\MirrorKata.App.AssemblyInfo.cs
+D:\Me\MirrorKata\MirrorKata.App\obj\Debug\net7.0\MirrorKata.App.csproj.CoreCompileInputs.cache
+D:\Me\MirrorKata\MirrorKata.App\obj\Debug\net7.0\MirrorKata.App.dll
+D:\Me\MirrorKata\MirrorKata.App\obj\Debug\net7.0\refint\MirrorKata.App.dll
+D:\Me\MirrorKata\MirrorKata.App\obj\Debug\net7.0\MirrorKata.App.pdb
+D:\Me\MirrorKata\MirrorKata.App\obj\Debug\net7.0\MirrorKata.App.genruntimeconfig.cache
+D:\Me\MirrorKata\MirrorKata.App\obj\Debug\net7.0\ref\MirrorKata.App.dll
